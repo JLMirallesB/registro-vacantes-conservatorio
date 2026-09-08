@@ -9,6 +9,13 @@ Windows, de Mac y en Excel para web, y funciona con edición compartida en
 OneDrive o SharePoint.
 
 **Descarga:** [`registro-vacantes-conservatorio.xlsx`](registro-vacantes-conservatorio.xlsx)
+· o la [última versión publicada](../../releases/latest)
+
+**Versión actual: 1.0.** El número de versión está dentro del propio libro, al
+pie de la Portada, para que siga siendo identificable después de descargarlo y
+renombrarlo. El fichero del repositorio no lleva la versión en el nombre a
+propósito: así el enlace de descarga no cambia nunca. Las instantáneas de cada
+versión están en [Releases](../../releases).
 
 ---
 
