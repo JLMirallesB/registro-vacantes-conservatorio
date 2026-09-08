@@ -199,5 +199,8 @@ Si te ha ahorrado trabajo, puedes [invitarme a una orxata](https://ko-fi.com/mir
 
 ## Licencia
 
-[MIT](LICENSE). Puedes usarlo, adaptarlo y repartirlo, también en tu centro,
-citando la autoría.
+**[CC BY 4.0](LICENSE)** — Creative Commons Reconocimiento 4.0 Internacional.
+
+Puedes copiarlo, redistribuirlo, adaptarlo y construir sobre ello, también con
+fines comerciales, siempre que reconozcas la autoría. Si lo adaptas para tu
+centro, indícalo. Ver [NOTICE.md](NOTICE.md) para cómo citar.
