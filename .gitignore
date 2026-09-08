@@ -1,0 +1,11 @@
+# Copias de pruebas: viven aquí para trastear sin tocar la plantilla,
+# pero no se publican.
+pruebas/*
+!pruebas/LEEME.md
+
+# Ficheros de bloqueo que crea Excel mientras un libro está abierto
+~$*
+
+# Cosas del sistema
+.DS_Store
+Thumbs.db
