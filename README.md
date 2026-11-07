@@ -11,7 +11,7 @@ OneDrive o SharePoint.
 **Descarga:** [`registro-vacantes-conservatorio.xlsx`](registro-vacantes-conservatorio.xlsx)
 · o la [última versión publicada](../../releases/latest)
 
-**Versión actual: 1.1.** El número de versión está dentro del propio libro, al
+**Versión actual: 1.2.** El número de versión está dentro del propio libro, al
 pie de la Portada, para que siga siendo identificable después de descargarlo y
 renombrarlo. El fichero del repositorio no lleva la versión en el nombre a
 propósito: así el enlace de descarga no cambia nunca. Las instantáneas de cada
@@ -206,8 +206,17 @@ Si te ha ahorrado trabajo, puedes [invitarme a una orxata](https://ko-fi.com/mir
 
 ## Licencia
 
-**[CC BY 4.0](LICENSE)** — Creative Commons Reconocimiento 4.0 Internacional.
+© 2026 José Luis Miralles Bono ([jlmirall.es](https://jlmirall.es))
+
+- **Fórmulas y lógica del libro:** [GNU AGPL v3](LICENSE).
+- **Plantilla, textos, instrucciones y tutorial:** [CC BY-SA 4.0](LICENSE-CONTENIDOS).
 
 Puedes copiarlo, redistribuirlo, adaptarlo y construir sobre ello, también con
-fines comerciales, siempre que reconozcas la autoría. Si lo adaptas para tu
-centro, indícalo. Ver [NOTICE.md](NOTICE.md) para cómo citar.
+fines comerciales, siempre que reconozcas la autoría y publiques lo que derives
+con la misma licencia. Si lo adaptas para tu centro, indícalo. Ver
+[NOTICE.md](NOTICE.md) para cómo citar.
+
+Hasta la versión 1.1 la plantilla se publicaba con CC BY 4.0; las copias
+obtenidas antes conservan esa licencia.
+
+Más información: [Registro de vacantes y refuerzos, una plantilla de Excel para conservatorios](https://elpulpoenelvaso.jlmirall.es/?p=813)
